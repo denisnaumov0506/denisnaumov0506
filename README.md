@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uniWuerDenis, a university student at Wuerzburg. I'm currently doing my master's degree in information systems.
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python and R for data science and JavaScript, Html and CSS for Web App development
+- 🌱 I’m currently learning Game Engine Development in C++
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me denis.naumov@stud-mail.uni-wuerzburg.de
 
