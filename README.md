@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @denisnaumov0506, a university student at Wuerzburg. I'm currently doing my master's degree in information systems.
+- 👋 Hi, I’m @denisnaumov0506, a former university student at Wuerzburg.
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Game Development, and continuously expand my knowledge in Java
 - 💞️ I’m looking to collaborate on projects
