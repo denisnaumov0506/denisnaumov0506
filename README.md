@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denisnaumov0506, a university student at Wuerzburg. I'm currently doing my master's degree in information systems.
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Game Engine Development, Data Sciene in Python and continuously expand my knowledge in Java
+- 🌱 I’m currently learning Game Development, and continuously expand my knowledge in Java
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me denis.naumov@stud-mail.uni-wuerzburg.de or denis-naumov@gmx.de
